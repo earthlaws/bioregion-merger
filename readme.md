@@ -27,6 +27,10 @@ Run the following command to merge the data:
 
     python3 merge_regiondata.py
 
+Merge the Greenprints data with the GeoJSON
+
+    TO BE COMPLETED
+
 Convert the GeoJSON to mapbox vertor tile format used by the mapping server:
 
     bash create_mbtiles.sh
